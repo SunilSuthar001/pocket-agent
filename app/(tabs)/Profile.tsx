@@ -1,15 +1,4 @@
-// import React from 'react'
-// import { Text, View } from 'react-native'
 
-// const Profile = () => {
-//   return (
-//     <View>
-//       <Text>Profile</Text>
-//     </View>
-//   )
-// }
-
-// export default Profile
 
 import { SignedOut } from "@clerk/clerk-expo";
 import { router } from "expo-router";
